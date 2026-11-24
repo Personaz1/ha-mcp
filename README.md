@@ -1,3 +1,5 @@
+> **Personaz1 fork note:** This repository is a fork of [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp). The upstream README below is retained as the primary documentation. This fork is not the upstream project; check the fork's commit history for local changes and preserve upstream attribution and licensing.
+
 > **Breaking change (v7.3.0):** `ha_config_set_yaml` has been moved to [beta](docs/beta.md).
 
 <div align="center">
