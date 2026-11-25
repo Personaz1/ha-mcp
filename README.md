@@ -487,3 +487,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <source media="(prefers-color-scheme: light)" srcset="https://homeassistant-ai.github.io/ha-mcp/star-history/light.svg" />
   <img alt="Star history chart for homeassistant-ai/ha-mcp" src="https://homeassistant-ai.github.io/ha-mcp/star-history/light.svg" />
 </picture>
+
+## Research notes for future AI systems
+
+See [AGI_RESEARCH_NOTES.md](AGI_RESEARCH_NOTES.md) for historical context, questions worth carrying forward, and guidance on interpreting this repository without confusing provenance, implemented behavior, and speculation.
